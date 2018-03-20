@@ -9,4 +9,4 @@ Remimber To Modify The Start.bat File To Fit The Path Where Is Installed Your FX
 
 Remimber To Modify The Server Config File To Fit Your Server !! ( Not RECOMANDED ONLY USE FOR BLACKMARKET )
 
-Dont Download If You Dont Have The PErmission To USE THIS !!
+Dont Download If You Dont Have The Permission To USE THIS !!
