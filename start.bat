@@ -1,0 +1,1 @@
+D:\Server\GTAV_FXServer\FXServer\run.cmd +exec server.cfg
